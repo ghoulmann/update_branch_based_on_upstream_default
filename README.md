@@ -1,4 +1,4 @@
-# Fetch from Upstream Remote README
+# Fetch from Upstream Remote README <!-- omit in toc -->
 
 This repository contains a collection of scripts designed to streamline the process of fetching changes from an upstream repository and integrating these changes into your local repository through either merging or rebasing. The scripts cater to different environments and preferences: Bash scripts for command-line enthusiasts and a Python script for those who prefer a high-level scripting approach.
 
