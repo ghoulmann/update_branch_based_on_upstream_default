@@ -71,4 +71,3 @@ This project is open-sourced under the MIT License. See the LICENSE file for mor
 
 ---
 
-This README provides a comprehensive guide to using and contributing to the scripts in this repository, ensuring users can easily understand their purpose, setup requirements, and how to execute them effectively.
