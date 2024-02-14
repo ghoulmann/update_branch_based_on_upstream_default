@@ -68,6 +68,3 @@ Contributions to improve the scripts or add new functionalities are welcome. Ple
 ## License
 
 This project is open-sourced under the MIT License. See the LICENSE file for more details.
-
----
-
