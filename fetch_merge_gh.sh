@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 # Check if GitHub CLI is installed
 if ! command -v gh &> /dev/null; then
